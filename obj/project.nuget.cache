@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dyPOdk6Hg9LJjeM/gstww+YbgXCzSsg1yaGw1qtPMPKUAqhfEqAZMGJQY/24nIL6OPEPeIYDL/WgQRtO5GugAg==",
+  "dgSpecHash": "rqF0Ur/fCLlWgVgx56NNmHvW7p6pXURkBm3IUi/fxJOKH6YHogpR/HfmoauLR5dOenG8uusTHREUDwy24CtMDw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hp\\Desktop\\Proyecto SISCAR-TESIS\\SISCAR-BACK\\SISDOMI-BACK\\SISDOMI.csproj",
+  "projectFilePath": "D:\\Proyecto SISCAR-TESIS\\SISCAR-BACKEND\\SISDOMI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hp\\.nuget\\packages\\dnsclient\\1.3.1\\dnsclient.1.3.1.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.aspnet.cors\\5.2.7\\microsoft.aspnet.cors.5.2.7.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hp\\Desktop\\Proyecto SISCAR-TESIS\\SISCAR-BACK\\SISDOMI-BACK\\SISDOMI.csproj": {}
+    "D:\\Proyecto SISCAR-TESIS\\SISCAR-BACKEND\\SISDOMI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hp\\Desktop\\Proyecto SISCAR-TESIS\\SISCAR-BACK\\SISDOMI-BACK\\SISDOMI.csproj": {
+    "D:\\Proyecto SISCAR-TESIS\\SISCAR-BACKEND\\SISDOMI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\Desktop\\Proyecto SISCAR-TESIS\\SISCAR-BACK\\SISDOMI-BACK\\SISDOMI.csproj",
+        "projectUniqueName": "D:\\Proyecto SISCAR-TESIS\\SISCAR-BACKEND\\SISDOMI.csproj",
         "projectName": "SISDOMI",
-        "projectPath": "C:\\Users\\hp\\Desktop\\Proyecto SISCAR-TESIS\\SISCAR-BACK\\SISDOMI-BACK\\SISDOMI.csproj",
+        "projectPath": "D:\\Proyecto SISCAR-TESIS\\SISCAR-BACKEND\\SISDOMI.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\Desktop\\Proyecto SISCAR-TESIS\\SISCAR-BACK\\SISDOMI-BACK\\obj\\",
+        "outputPath": "D:\\Proyecto SISCAR-TESIS\\SISCAR-BACKEND\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
